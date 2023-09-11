@@ -19,7 +19,9 @@ Cambios realizados:
 
 También, en este repositorio se encuentra el preprocesamiento de los datos del trabajo 'El precio de los autos'. Para este entregable se usó una base de datos llamada 'Precios_autos', el cual se encuentra en el archivo 'precios_autos.csv'. El reporte se encuentra en el pdf 'Reporte_precios_autos' donde viene especificado el proceso que se siguió.
 
+Base de datos: https://github.com/michelle-morales/Portafolio-de-analisis-IA1/blob/main/precios_autos.csv
+
 Los archivos a revisar son los siguientes:
 - El refinamiento del modelo: 'implementacion_refinamiento.ipynb'. https://github.com/michelle-morales/Portafolio-implementacion-IA-1/blob/main/implementacion_refinamiento.ipynb
-- Reporte del preprocesamiento de datos de 'El precio de los autos': 'Reporte_precio_autos.pdf'.
-- Codigo del preprocesamiento de datos de 'El precio de los autos': 'Autos.ipynb'. 
+- Reporte del preprocesamiento de datos de 'El precio de los autos': 'Reporte_precio_autos.pdf'. https://github.com/michelle-morales/Portafolio-de-analisis-IA1/blob/main/Reporte_precio_autos.pdf
+- Codigo del preprocesamiento de datos de 'El precio de los autos': 'Autos_portafolio_analisis.ipynb'. https://github.com/michelle-morales/Portafolio-de-analisis-IA1/blob/main/Autos_portafolio_analisis.ipynb
